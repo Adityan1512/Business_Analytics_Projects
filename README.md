@@ -1,4 +1,4 @@
-# Business Analysis Projects 
+# Business Analytics Projects 
 
 Hi, I’m **Adityan**, a London-based **Analyst** with a background in **Business Intelligence, Strategy & Analytics**, and an MSc in **FinTech with Business Analytics** (University of Westminster).
 
